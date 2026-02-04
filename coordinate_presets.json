@@ -1,0 +1,164 @@
+{
+  "crown": {
+    "coords": [
+      -0.5503295086752807,
+      -0.5503293049351449,
+      -0.6259346555912755,
+      -0.625934541001796
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.11,
+      0.02,
+      0.92
+    ],
+    "ncycle": 32,
+    "stripe_s": 8,
+    "step_s": 0,
+    "description": "Crown-like structure in deep zoom"
+  },
+  "pow": {
+    "coords": [
+      -1.9854527029227764,
+      -1.9854527027615938,
+      0.00019009159314173224,
+      0.00019009168379912058
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.29,
+      0.02,
+      0.9
+    ],
+    "ncycle": 8,
+    "stripe_s": 0,
+    "step_s": 10,
+    "description": "POW region"
+  },
+  "octogone": {
+    "coords": [
+      -1.749289287806423,
+      -1.7492892878054118,
+      -1.8709586016347623e-06,
+      -1.8709580332005737e-06
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.83,
+      0.01,
+      0.99
+    ],
+    "ncycle": 32,
+    "stripe_s": 8,
+    "step_s": 0,
+    "description": "Octogone region"
+  },
+  "julia": {
+    "coords": [
+      -1.9415524417847085,
+      -1.9415524394561112,
+      0.00013385928801614168,
+      0.00013386059768851223
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.87,
+      0.83,
+      0.77
+    ],
+    "ncycle": 32,
+    "stripe_s": 0,
+    "step_s": 0,
+    "description": "Julia region"
+  },
+  "lightning": {
+    "coords": [
+      -0.19569582393630502,
+      -0.19569331188751315,
+      1.1000276413181806,
+      1.10002905416902
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.54,
+      0.38,
+      0.35
+    ],
+    "ncycle": 32,
+    "stripe_s": 8,
+    "step_s": 0,
+    "description": "Lightning formation with default colors"
+  },
+  "web": {
+    "coords": [
+      -1.7497082019887222,
+      -1.749708201971718,
+      -1.3693697170765535e-07,
+      -1.369274301311596e-07
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.47,
+      0.51,
+      0.63
+    ],
+    "ncycle": 32,
+    "stripe_s": 0,
+    "step_s": 20,
+    "description": "Web region"
+  },
+  "spiral": {
+    "coords": [
+      -1.8605721473418524,
+      -1.860572147340747,
+      -3.1800170324714687e-06,
+      -3.180016406837821e-06
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.6,
+      0.57,
+      0.45
+    ],
+    "ncycle": 32,
+    "stripe_s": 10,
+    "step_s": 0,
+    "description": "Spiral like region"
+  },
+  "tiles": {
+    "coords": [
+      -0.7545217835886875,
+      -0.7544770820676441,
+      0.05716740181493137,
+      0.05719254327783547
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.63,
+      0.83,
+      0.98
+    ],
+    "ncycle": 32,
+    "stripe_s": 0,
+    "step_s": 0,
+    "description": "tiles region"
+  },
+  "velvet": {
+    "coords": [
+      -1.6241199193994318,
+      -1.624119919281773,
+      -0.00013088931048083944,
+      -0.0001308892443058033
+    ],
+    "max_iter": 5000,
+    "rgb_thetas": [
+      0.29,
+      0.52,
+      0.59
+    ],
+    "ncycle": 32,
+    "stripe_s": 10,
+    "step_s": 0,
+    "description": "Seahorse valley region"
+  }
+}

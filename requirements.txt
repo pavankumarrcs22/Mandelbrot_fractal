@@ -1,0 +1,26 @@
+# Requirements for GPU-Accelerated Mandelbrot Renderer
+
+# Core dependencies
+numpy>=1.21.0
+matplotlib>=3.4.0
+
+# GPU acceleration (choose based on your CUDA version)
+# For CUDA 11.x:
+# cupy-cuda11x>=12.0.0
+
+# For CUDA 12.x:
+# cupy-cuda12x>=12.0.0
+
+# Note: CuPy installation guide
+# CUDA 11.2-11.8: pip install cupy-cuda11x
+# CUDA 12.x:      pip install cupy-cuda12x
+# 
+# If unsure about CUDA version, run: nvcc --version
+# or check: nvidia-smi
+
+# Optional for enhanced visualization
+pillow>=9.0.0
+
+# Development tools (optional)
+ipython>=8.0.0
+jupyter>=1.0.0
